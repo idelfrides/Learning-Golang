@@ -19,11 +19,6 @@ BY: Stephen Grider
 
 `CLASS 06` - Go support in VSCode 
 
-`CLASS 07` - Go support in VSCode 
-
-`CLASS 08` - Go support in VSCode 
-
-`CLASS 09` - Five Important Questions
 
 
 ###  IMPORTANT LINKS
